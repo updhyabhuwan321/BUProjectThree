@@ -1,0 +1,59 @@
+   Cellphone Tower Coverage Report
+Prepared on: Mon May 06 18:59:48 CDT 2024
+
+The 1st journey consists of 6 waypoints:
+NE01 NE03 NE05 NE07 NE09 NE10 
+                           Mid-point:
+  From     To Distance  X-coord  Y-coord
+------ ------ --------  -------   -------
+  NE01   NE03     8.60     4.50      3.50
+  NE03   NE05     5.00    10.00      7.50
+  NE05   NE07     5.00    12.00     11.50
+  NE07   NE09     7.81     9.00     16.50
+  NE09   NE10     8.06    10.00     19.50
+Location Tower Proximity
+-------- ------- ---------
+NE01     No Coverage.         
+Mid-Pt   T-527    1.6     
+NE03     T-442    3.0     
+Mid-Pt   T-442    2.5     
+NE05     T-442    4.0     
+Mid-Pt   No Coverage.         
+NE07     T-363    2.0     
+Mid-Pt   T-363    2.7     
+NE09     T-534    2.2     
+Mid-Pt   No Coverage.         
+
+The 2nd journey consists of 6 waypoints:
+NE02 NE04 NE06 NE08 NE11 NE12 
+                           Mid-point:
+  From     To Distance  X-coord  Y-coord
+------ ------ --------  -------   -------
+  NE02   NE04     6.26     9.25      5.50
+  NE04   NE06     5.59     6.00      9.75
+  NE06   NE08     5.52     5.75     15.25
+  NE08   NE11     7.21     9.00     20.00
+  NE11   NE12     4.24    13.50     23.50
+Location Tower Proximity
+-------- ------- ---------
+NE02     No Coverage.         
+Mid-Pt   T-442    3.7     
+NE04     T-527    2.5     
+Mid-Pt   T-442    2.1     
+NE06     No Coverage.         
+Mid-Pt   T-534    3.3     
+NE08     T-534    2.0     
+Mid-Pt   No Coverage.         
+NE11     T-481    2.0     
+Mid-Pt   T-481    1.6     
+
+The 3rd journey consists of 4 waypoints:
+NE04 NE23 NE11 NE10 
+                           Mid-point:
+  From     To Distance  X-coord  Y-coord
+------ ------ --------  -------   -------
+  NE11   NE10     2.83    13.00     21.00
+Location Tower Proximity
+-------- ------- ---------
+NE11     T-481    2.0     
+Mid-Pt   T-481    3.2     
